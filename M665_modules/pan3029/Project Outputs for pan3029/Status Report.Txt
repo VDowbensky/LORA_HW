@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [pan3029.PrjPcb]
+   Generated File[pan3029m.TXT]
+   Generated File[pan3029m.LDP]
+   Generated File[pan3029m.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:28:54 On 08.08.2025

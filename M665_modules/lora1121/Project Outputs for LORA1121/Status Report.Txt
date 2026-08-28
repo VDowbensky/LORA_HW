@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LORA1121.PrjPcb]
+   Generated File[lora1121m.TXT]
+   Generated File[lora1121m.LDP]
+   Generated File[lora1121m.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:39:21 On 09.01.2026

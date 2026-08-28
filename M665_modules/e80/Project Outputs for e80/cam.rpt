@@ -1,0 +1,15 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: D:\RFprojects\M6\modules\e80\Project Outputs for e80\cam.drl
+Format: 2.3
+Units: English (Inch)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.0118		100
+ 2 		0.0417		2
+ 3 		0.0449		12
+ 4 		0.1024		4

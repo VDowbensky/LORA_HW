@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\RFprojects\M6\M665\m6_base.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=m6_base-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=m6_base-slotholes.txt|DrillLayers=gtl,gbl
