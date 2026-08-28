@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LR1121EVM.PrjPcb]
+   Generated File[LR1121EVM.TXT]
+   Generated File[LR1121EVM.LDP]
+   Generated File[LR1121EVM.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:32:40 On 04.09.2024

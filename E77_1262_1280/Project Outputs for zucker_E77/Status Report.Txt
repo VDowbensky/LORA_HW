@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [zucker_E77.PrjPcb]
+   Generated File[zucker_E77.TXT]
+   Generated File[zucker_E77.LDP]
+   Generated File[zucker_E77.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:40:07 On 03.09.2024

@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [LR_EVM.PrjPcb]
+   Generated File[zucker_E78.GTO]
+   Generated File[zucker_E78.GTP]
+   Generated File[zucker_E78.GTS]
+   Generated File[zucker_E78.GTL]
+   Generated File[zucker_E78.GBL]
+   Generated File[zucker_E78.GBS]
+   Generated File[zucker_E78.GBP]
+   Generated File[zucker_E78.GBO]
+   Generated File[zucker_E78.GKO]
+   Generated File[LR_EVM.GM]
+   Generated File[LR_EVM.EXTREP]
+   Generated File[LR_EVM.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 14:28:02 On 27-May-25
