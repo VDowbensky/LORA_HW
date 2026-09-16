@@ -3,3 +3,6 @@
 *.SchDocPreview
 *.LOG
 /node_ht62/History
+/LORAbridge/History
+*.drc
+*.html
