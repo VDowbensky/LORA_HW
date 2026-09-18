@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\RFprojects\LORA_HW\E77_repeater\E77R.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=e77r-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=e77r-slotholes.txt|DrillLayers=gtl,gbl
