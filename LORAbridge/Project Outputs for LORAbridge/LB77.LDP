@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\RFprojects\LORA_HW\LORAbridge\LB77.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=lb77-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=lb77-slotholes.txt|DrillLayers=gtl,gbl

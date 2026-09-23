@@ -9,3 +9,6 @@
 /E77_repeater/History
 E77_repeater/E77_repeater.PrjPcbStructure
 *.htm
+*.drc
+*.html
+*.APR_LIB

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LORAbridge.PrjPcb]
+   Generated File[LB77-RoundHoles.TXT]
+   Generated File[LB77-SlotHoles.TXT]
+   Generated File[LB77.LDP]
+   Generated File[LB77.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 1:03:40 pm On 23 Sep 2026
