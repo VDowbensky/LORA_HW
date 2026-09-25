@@ -12,3 +12,6 @@ E77_repeater/E77_repeater.PrjPcbStructure
 *.drc
 *.html
 *.APR_LIB
+/E51_breakout/History
+/Node_E73/History
+*.PrjPcbStructure
