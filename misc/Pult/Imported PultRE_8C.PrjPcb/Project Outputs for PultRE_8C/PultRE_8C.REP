@@ -1,0 +1,64 @@
+*************************************************************
+FileName = PultRE_8C.GBR
+AutoAperture = True
+*************************************************************
+Generating : Keep-Out Layer, Board
+      File : PultRE_8C.GKO
+
+    Adding Layer      : Keep-Out Layer, Board
+
+
+Used DCodes :
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer, Bottom
+      File : PultRE_8C.GBL
+
+    Adding Layer      : Bottom Layer, Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D24
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Top Layer, Top
+      File : PultRE_8C.GTL
+
+    Adding Layer      : Top Layer, Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+

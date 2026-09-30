@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PultRE_8C.PrjPcb]
+   Generated File[PultRE_8C.TXT]
+   Generated File[PultRE_8C.LDP]
+   Generated File[PultRE_8C.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:27:48 On 23-Mar-22

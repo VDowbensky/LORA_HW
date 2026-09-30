@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [RFA433.PrjPcb]
+   Generated File[RFA433.TXT]
+   Generated File[RFA433.LDP]
+   Generated File[RFA433.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:59:36 On 27-Mar-22

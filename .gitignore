@@ -15,3 +15,7 @@ E77_repeater/E77_repeater.PrjPcbStructure
 /E51_breakout/History
 /Node_E73/History
 *.PrjPcbStructure
+/misc/first_vers/Imported ReceiverLoRa.PrjPcb/History
+*.DRR
+*.EXTREP
+*.apr
