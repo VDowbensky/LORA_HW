@@ -24,3 +24,5 @@ E77_repeater/E77_repeater.PrjPcbStructure
 *.html
 LORAbridge/Project Outputs for LORAbridge/Design Rule Check - LB77.drc
 LORAbridge/Project Outputs for LORAbridge/Design Rule Check - LB77.html
+*.drc
+*.html

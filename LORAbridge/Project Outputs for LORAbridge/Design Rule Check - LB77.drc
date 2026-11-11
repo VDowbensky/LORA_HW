@@ -1,10 +1,22 @@
 Protel Design System Design Rule Check
 PCB File : D:\RFprojects\LORA_HW\LORAbridge\LB77.PcbDoc
-Date     : 27 Oct 2026
-Time     : 3:53:40 pm
+Date     : 10 Nov 2026
+Time     : 11:27:55 am
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
-Rule Violations :0
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad JP4-2(21.46mm,65.425mm) on Bottom Layer And Track (12mm,68mm)(101mm,68mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad JP4-2(21.46mm,65.425mm) on Top Layer And Track (12mm,68mm)(101mm,68mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad JP4-2(26.54mm,65.425mm) on Bottom Layer And Track (12mm,68mm)(101mm,68mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad JP4-2(26.54mm,65.425mm) on Top Layer And Track (12mm,68mm)(101mm,68mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad JP5-2(82.21mm,65.425mm) on Bottom Layer And Track (12mm,68mm)(101mm,68mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad JP5-2(82.21mm,65.425mm) on Top Layer And Track (12mm,68mm)(101mm,68mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad JP5-2(87.29mm,65.425mm) on Bottom Layer And Track (12mm,68mm)(101mm,68mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad JP5-2(87.29mm,65.425mm) on Top Layer And Track (12mm,68mm)(101mm,68mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad JP6-2(61.46mm,65.425mm) on Bottom Layer And Track (12mm,68mm)(101mm,68mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad JP6-2(61.46mm,65.425mm) on Top Layer And Track (12mm,68mm)(101mm,68mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad JP6-2(66.54mm,65.425mm) on Bottom Layer And Track (12mm,68mm)(101mm,68mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Pad JP6-2(66.54mm,65.425mm) on Top Layer And Track (12mm,68mm)(101mm,68mm) on Keep-Out Layer 
+Rule Violations :12
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -46,6 +58,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 12
 Waived Violations : 0
 Time Elapsed        : 00:00:00
